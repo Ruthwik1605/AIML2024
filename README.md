@@ -11,3 +11,5 @@
 #assigment6:https://github.com/Ruthwik1605/AIML2024/blob/main/2203A51605_ASS_6.ipynb
 
 #assigment7:https://github.com/Ruthwik1605/AIML2024/blob/main/2203A51605_ass_7.ipynb
+
+#AI&ML PROJECT:https://github.com/Ruthwik1605/AIML2024/blob/main/AI%26ML.ipynb
